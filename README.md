@@ -1,0 +1,2 @@
+# stpm2cr
+Flexible parametric competing-risks regression models Use stpm2cr With STATA 19
