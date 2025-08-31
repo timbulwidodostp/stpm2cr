@@ -1,4 +1,15 @@
-D 'DEA': Data envelopment analysis
+D 'stpm2cr': Flexible parametric competing-risks regression models Use stpm2cr With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F rcsgen.ado
+F rcsgen.sthlp
+F rcsgen_example.ado
+F stcompet.ado
+F stcompet.hlp
+F stpm2cr.ado
+F stpm2cr.sthlp
+F stpm2cr_matacode.mata
+F stpm2cr_ml_lf_hazard.ado
+F stpm2cr_ml_lf_multi.ado
+F stpm2cr_ml_lf_odds.ado
+F stpm2cr_postestimation.sthlp
+F stpm2cr_pred.ado
